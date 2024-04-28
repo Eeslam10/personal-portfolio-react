@@ -1,2 +1,2 @@
-# Personal portfolio built with react
+# Personal portfolio built with react.
 
