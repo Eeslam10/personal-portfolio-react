@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="footer-top">
                 <div className="footer-top-left">
                     {/* <img src={footer_logo} alt="" /> */}
-                    <p>I'm a frontend developer from Abuja, Nigeria with 4years experience in multiple tech companies like TOG Africa, Katsina Tech Hub and Neo Cloud Technologies ICT</p>
+                    <p>I'm a frontend developer from Katsina, Nigeria with 4years experience in Katsina Tech Hub and ICT Hassan Usman Katsina Polytechnic</p>
                 </div>
                 <div className="footer-top-right">
                     <div className="footer-email-input">
@@ -21,7 +21,7 @@ const Footer = () => {
             </div>
             <hr />
             <div className="footer-bottom">
-                <p className="footer-bottom-left">&copy;  2023 Islam Sani.  All rights reserved.</p>
+                <p className="footer-bottom-left">&copy;  2023 Hassan Lawal.  All rights reserved.</p>
                 <div className="footer-bottom-right">
                     <p>Term of Services</p>
                     <p>Privacy Policy</p>

@@ -18,14 +18,14 @@ const Contact = () => {
                 <p>I'm currently available to take on new projects, so feel free</p>
             <div className="contact-details">
                 <div className="contact-detail">
-                  <img src={mail_icon} alt="" />  <p>islammuhd8@gmail.com</p> 
+                  <img src={mail_icon} alt="" />  <p>hassanlawalkdurbi@gmail.com</p> 
                 </div>
                 <div className="contact-detail">
-                  <img src={call_icon} alt="" />  <p>+2348100050907</p>
+                  <img src={call_icon} alt="" />  <p>+2348167508501</p>
                 </div>
                 <div className="contact-detail">
                 <img src={location_icon} alt="" />                      
-                <p>Kaduna, Nigeria</p>
+                <p>Katsina, Nigeria</p>
                 </div>
             </div>
             </div>
